@@ -24,7 +24,10 @@ const parseKeys = (raw: string): string[][] => {
     .split(",")
     .map((combo) => {
       const matches = [...combo.matchAll(/\[([^\]]+)\]/g)];
-      return matches.map((m) => m[1]).filter((k) => k !== "<Unbound>");
+      return matches
+        .map((m) => m[1])
+        .filter((k) => k !== "<Unbound>")
+        .map((k) => (k.length === 1 ? k.toUpperCase() : k)); // <-- Convert single chars to uppercase
     })
     .filter((group) => group.length > 0);
 };

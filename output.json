@@ -11,7 +11,7 @@
     "action": "Use Item7",
     "keys": [
       [
-        "b"
+        "B"
       ]
     ]
   },
@@ -347,7 +347,7 @@
     "keys": [
       [
         "Shift",
-        "r"
+        "R"
       ]
     ]
   },
@@ -358,7 +358,7 @@
     "keys": [
       [
         "Shift",
-        "e"
+        "E"
       ]
     ]
   },
@@ -369,7 +369,7 @@
     "keys": [
       [
         "Shift",
-        "w"
+        "W"
       ]
     ]
   },
@@ -380,7 +380,7 @@
     "keys": [
       [
         "Shift",
-        "q"
+        "Q"
       ]
     ]
   },
@@ -457,7 +457,7 @@
     "keys": [
       [
         "Shift",
-        "f"
+        "F"
       ]
     ]
   },
@@ -468,7 +468,7 @@
     "keys": [
       [
         "Shift",
-        "d"
+        "D"
       ]
     ]
   },
@@ -478,7 +478,7 @@
     "action": "Show Voice Panel",
     "keys": [
       [
-        "m"
+        "M"
       ]
     ]
   },
@@ -494,7 +494,7 @@
     "action": "Show Score Board",
     "keys": [
       [
-        "o"
+        "O"
       ]
     ]
   },
@@ -510,7 +510,7 @@
     "action": "Show Character Menu",
     "keys": [
       [
-        "c"
+        "C"
       ]
     ]
   },
@@ -532,7 +532,7 @@
     "keys": [
       [
         "Alt",
-        "r"
+        "R"
       ]
     ]
   },
@@ -543,7 +543,7 @@
     "keys": [
       [
         "Alt",
-        "e"
+        "E"
       ]
     ]
   },
@@ -554,7 +554,7 @@
     "keys": [
       [
         "Alt",
-        "w"
+        "W"
       ]
     ]
   },
@@ -565,7 +565,7 @@
     "keys": [
       [
         "Alt",
-        "q"
+        "Q"
       ]
     ]
   },
@@ -642,7 +642,7 @@
     "keys": [
       [
         "Alt",
-        "f"
+        "F"
       ]
     ]
   },
@@ -653,7 +653,7 @@
     "keys": [
       [
         "Alt",
-        "d"
+        "D"
       ]
     ]
   },
@@ -755,7 +755,7 @@
     "action": "Reciprocity My Bad Trigger",
     "keys": [
       [
-        "i"
+        "I"
       ]
     ]
   },
@@ -841,7 +841,7 @@
     "action": "Player Stop Position",
     "keys": [
       [
-        "s"
+        "S"
       ]
     ]
   },
@@ -915,7 +915,7 @@
     "action": "Player Attack Move Click",
     "keys": [
       [
-        "a"
+        "A"
       ]
     ]
   },
@@ -925,7 +925,7 @@
     "action": "Player Attack Move",
     "keys": [
       [
-        "x"
+        "X"
       ]
     ]
   },
@@ -950,10 +950,10 @@
     "action": "Open Shop",
     "keys": [
       [
-        "p"
+        "P"
       ],
       [
-        "u"
+        "U"
       ]
     ]
   },
@@ -1052,7 +1052,7 @@
     "keys": [
       [
         "Ctrl",
-        "r"
+        "R"
       ]
     ]
   },
@@ -1063,7 +1063,7 @@
     "keys": [
       [
         "Ctrl",
-        "e"
+        "E"
       ]
     ]
   },
@@ -1074,7 +1074,7 @@
     "keys": [
       [
         "Ctrl",
-        "w"
+        "W"
       ]
     ]
   },
@@ -1085,7 +1085,7 @@
     "keys": [
       [
         "Ctrl",
-        "q"
+        "Q"
       ]
     ]
   },
@@ -1162,7 +1162,7 @@
     "action": "Chat History",
     "keys": [
       [
-        "z"
+        "Z"
       ]
     ]
   },
@@ -1172,7 +1172,7 @@
     "action": "Champion Only",
     "keys": [
       [
-        "t"
+        "T"
       ]
     ]
   },
@@ -1193,7 +1193,7 @@
     "action": "Cast Spell4",
     "keys": [
       [
-        "r"
+        "R"
       ]
     ]
   },
@@ -1203,7 +1203,7 @@
     "action": "Cast Spell3",
     "keys": [
       [
-        "e"
+        "E"
       ]
     ]
   },
@@ -1213,7 +1213,7 @@
     "action": "Cast Spell2",
     "keys": [
       [
-        "w"
+        "W"
       ]
     ]
   },
@@ -1223,7 +1223,7 @@
     "action": "Cast Spell1",
     "keys": [
       [
-        "q"
+        "Q"
       ]
     ]
   },
@@ -1233,7 +1233,7 @@
     "action": "Cast Avatar Spell2",
     "keys": [
       [
-        "f"
+        "F"
       ]
     ]
   },
@@ -1243,7 +1243,7 @@
     "action": "Cast Avatar Spell1",
     "keys": [
       [
-        "d"
+        "D"
       ]
     ]
   },
@@ -1263,7 +1263,7 @@
     "action": "Camera Lock Toggle",
     "keys": [
       [
-        "y"
+        "Y"
       ]
     ]
   },
@@ -1284,7 +1284,7 @@
     "action": "evnt Player Ping Cursor Danger",
     "keys": [
       [
-        "v"
+        "V"
       ]
     ]
   },
@@ -1294,7 +1294,7 @@
     "action": "evnt Player Ping Cursor",
     "keys": [
       [
-        "g"
+        "G"
       ]
     ]
   },
@@ -1316,7 +1316,7 @@
     "keys": [
       [
         "Ctrl",
-        "c"
+        "C"
       ]
     ]
   },
@@ -1337,7 +1337,7 @@
     "keys": [
       [
         "Ctrl",
-        "f"
+        "F"
       ]
     ]
   },
@@ -1347,7 +1347,7 @@
     "action": "Toggle Death Recap Showcase",
     "keys": [
       [
-        "n"
+        "N"
       ]
     ]
   },
@@ -1457,7 +1457,7 @@
     "keys": [
       [
         "Ctrl",
-        "l"
+        "L"
       ],
       [
         "Ctrl",
