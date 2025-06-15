@@ -1,0 +1,86 @@
+export const testData = [
+  {
+    id: "evtUseVisionItem",
+    category: "Other",
+    action: "Use Vision Item",
+    keys: [],
+  },
+  {
+    id: "evtUseItem7",
+    category: "Items",
+    action: "Use Item7",
+    keys: ["b"],
+  },
+  {
+    id: "evtUseItem6",
+    category: "Items",
+    action: "Use Item6",
+    keys: ["7"],
+  },
+  {
+    id: "evtUseItem5",
+    category: "Items",
+    action: "Use Item5",
+    keys: ["6"],
+  },
+  {
+    id: "evtUseItem4",
+    category: "Items",
+    action: "Use Item4",
+    keys: ["5"],
+  },
+  {
+    id: "evtUseItem3",
+    category: "Items",
+    action: "Use Item3",
+    keys: ["3"],
+  },
+  {
+    id: "evtUseItem2",
+    category: "Items",
+    action: "Use Item2",
+    keys: ["2"],
+  },
+  {
+    id: "evtUseItem1",
+    category: "Items",
+    action: "Use Item1",
+    keys: ["1"],
+  },
+  {
+    id: "evtSysMenu",
+    category: "System",
+    action: "Sys Menu",
+    keys: ["Esc"],
+  },
+  {
+    id: "evtSmartCastSpell4",
+    category: "Abilities",
+    action: "Smart Cast Spell4",
+    keys: ["Shift", "r"],
+  },
+  {
+    id: "evtSmartCastSpell3",
+    category: "Abilities",
+    action: "Smart Cast Spell3",
+    keys: ["Shift", "e"],
+  },
+  {
+    id: "evtSmartCastSpell2",
+    category: "Abilities",
+    action: "Smart Cast Spell2",
+    keys: [],
+  },
+  {
+    id: "evtSmartCastSpell1",
+    category: "Abilities",
+    action: "Smart Cast Spell1",
+    keys: [],
+  },
+  {
+    id: "evtSomethingCustom",
+    category: "Other",
+    action: "Something Custom",
+    keys: [],
+  },
+];
