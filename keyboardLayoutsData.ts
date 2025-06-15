@@ -1,19 +1,4 @@
-export type KeyData = {
-  label: string;
-  w?: number;
-  finger?: Finger;
-};
-
-export type Finger =
-  | "L5" // Left pinky
-  | "L4" // Left ring
-  | "L3" // Left middle
-  | "L2" // Left index
-  | "R2" // Right index
-  | "R3" // Right middle
-  | "R4" // Right ring
-  | "R5" // Right pinky
-  | "Thumb";
+import { KeyData } from "./types";
 
 export const nordicLayout: KeyData[][] = [
   // Row 0: Function row — generally hit with pinky or top row reach
