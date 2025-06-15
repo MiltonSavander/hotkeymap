@@ -1,6 +1,6 @@
 "use client";
 import React from "react";
-import { nordicLayout, simplelayout } from "../keyboardLayoutsData";
+import { nordicLayout } from "../keyboardLayoutsData";
 
 type KeyData = {
   label: string;
@@ -20,11 +20,16 @@ const fingerColors = {
   Thumb: "#a1887f",
 };
 
-//layout to test
+// layout to test
 const layout: KeyData[][] = nordicLayout;
 
-const KeyboardVisualizer: React.FC = ({ data }) => {
-  const allKeys = data.flatMap((item) => item.keys).map((key) => key.toUpperCase());
+const KeyboardVisualizer: React.FC<{ data: any[] }> = ({ data }) => {
+  // Flatten all keys (from nested combos) and normalize to uppercase
+  const activeKeySet = new Set(
+    data.flatMap((item) =>
+      item.keys.flatMap((combo: string[]) => combo.map((key) => key.toUpperCase()))
+    )
+  );
 
   return (
     <div className="p-6 bg-white text-black">
@@ -37,7 +42,7 @@ const KeyboardVisualizer: React.FC = ({ data }) => {
           >
             {row.map((key, keyIndex) => {
               const keyLabelUpper = key.label.toUpperCase();
-              const isActive = allKeys.includes(keyLabelUpper);
+              const isActive = activeKeySet.has(keyLabelUpper);
 
               return (
                 <div

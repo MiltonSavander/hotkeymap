@@ -1,0 +1,1468 @@
+[
+  {
+    "id": "evtUseVisionItem",
+    "category": "Other",
+    "action": "Use Vision Item",
+    "keys": []
+  },
+  {
+    "id": "evtUseItem7",
+    "category": "Items",
+    "action": "Use Item7",
+    "keys": [
+      [
+        "b"
+      ]
+    ]
+  },
+  {
+    "id": "evtUseItem6",
+    "category": "Items",
+    "action": "Use Item6",
+    "keys": [
+      [
+        "7"
+      ]
+    ]
+  },
+  {
+    "id": "evtUseItem5",
+    "category": "Items",
+    "action": "Use Item5",
+    "keys": [
+      [
+        "6"
+      ]
+    ]
+  },
+  {
+    "id": "evtUseItem4",
+    "category": "Items",
+    "action": "Use Item4",
+    "keys": [
+      [
+        "5"
+      ]
+    ]
+  },
+  {
+    "id": "evtUseItem3",
+    "category": "Items",
+    "action": "Use Item3",
+    "keys": [
+      [
+        "3"
+      ]
+    ]
+  },
+  {
+    "id": "evtUseItem2",
+    "category": "Items",
+    "action": "Use Item2",
+    "keys": [
+      [
+        "2"
+      ]
+    ]
+  },
+  {
+    "id": "evtUseItem1",
+    "category": "Items",
+    "action": "Use Item1",
+    "keys": [
+      [
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": "evtToggleMinionHealthBars",
+    "category": "Other",
+    "action": "Toggle Minion Health Bars",
+    "keys": []
+  },
+  {
+    "id": "evtSysMenu",
+    "category": "System",
+    "action": "Sys Menu",
+    "keys": [
+      [
+        "Esc"
+      ]
+    ]
+  },
+  {
+    "id": "evtSmartPlusSelfCastWithIndicatorVisionItem",
+    "category": "Self Cast",
+    "action": "Smart Plus Self Cast With Indicator Vision Item",
+    "keys": []
+  },
+  {
+    "id": "evtSmartPlusSelfCastWithIndicatorSpell4",
+    "category": "Self Cast",
+    "action": "Smart Plus Self Cast With Indicator Spell4",
+    "keys": []
+  },
+  {
+    "id": "evtSmartPlusSelfCastWithIndicatorSpell3",
+    "category": "Self Cast",
+    "action": "Smart Plus Self Cast With Indicator Spell3",
+    "keys": []
+  },
+  {
+    "id": "evtSmartPlusSelfCastWithIndicatorSpell2",
+    "category": "Self Cast",
+    "action": "Smart Plus Self Cast With Indicator Spell2",
+    "keys": []
+  },
+  {
+    "id": "evtSmartPlusSelfCastWithIndicatorSpell1",
+    "category": "Self Cast",
+    "action": "Smart Plus Self Cast With Indicator Spell1",
+    "keys": []
+  },
+  {
+    "id": "evtSmartPlusSelfCastWithIndicatorItem6",
+    "category": "Self Cast",
+    "action": "Smart Plus Self Cast With Indicator Item6",
+    "keys": []
+  },
+  {
+    "id": "evtSmartPlusSelfCastWithIndicatorItem5",
+    "category": "Self Cast",
+    "action": "Smart Plus Self Cast With Indicator Item5",
+    "keys": []
+  },
+  {
+    "id": "evtSmartPlusSelfCastWithIndicatorItem4",
+    "category": "Self Cast",
+    "action": "Smart Plus Self Cast With Indicator Item4",
+    "keys": []
+  },
+  {
+    "id": "evtSmartPlusSelfCastWithIndicatorItem3",
+    "category": "Self Cast",
+    "action": "Smart Plus Self Cast With Indicator Item3",
+    "keys": []
+  },
+  {
+    "id": "evtSmartPlusSelfCastWithIndicatorItem2",
+    "category": "Self Cast",
+    "action": "Smart Plus Self Cast With Indicator Item2",
+    "keys": []
+  },
+  {
+    "id": "evtSmartPlusSelfCastWithIndicatorItem1",
+    "category": "Self Cast",
+    "action": "Smart Plus Self Cast With Indicator Item1",
+    "keys": []
+  },
+  {
+    "id": "evtSmartPlusSelfCastWithIndicatorAvatarSpell2",
+    "category": "Self Cast",
+    "action": "Smart Plus Self Cast With Indicator Avatar Spell2",
+    "keys": []
+  },
+  {
+    "id": "evtSmartPlusSelfCastWithIndicatorAvatarSpell1",
+    "category": "Self Cast",
+    "action": "Smart Plus Self Cast With Indicator Avatar Spell1",
+    "keys": []
+  },
+  {
+    "id": "evtSmartPlusSelfCastVisionItem",
+    "category": "Self Cast",
+    "action": "Smart Plus Self Cast Vision Item",
+    "keys": []
+  },
+  {
+    "id": "evtSmartPlusSelfCastSpell4",
+    "category": "Self Cast",
+    "action": "Smart Plus Self Cast Spell4",
+    "keys": []
+  },
+  {
+    "id": "evtSmartPlusSelfCastSpell3",
+    "category": "Self Cast",
+    "action": "Smart Plus Self Cast Spell3",
+    "keys": []
+  },
+  {
+    "id": "evtSmartPlusSelfCastSpell2",
+    "category": "Self Cast",
+    "action": "Smart Plus Self Cast Spell2",
+    "keys": []
+  },
+  {
+    "id": "evtSmartPlusSelfCastSpell1",
+    "category": "Self Cast",
+    "action": "Smart Plus Self Cast Spell1",
+    "keys": []
+  },
+  {
+    "id": "evtSmartPlusSelfCastItem6",
+    "category": "Self Cast",
+    "action": "Smart Plus Self Cast Item6",
+    "keys": []
+  },
+  {
+    "id": "evtSmartPlusSelfCastItem5",
+    "category": "Self Cast",
+    "action": "Smart Plus Self Cast Item5",
+    "keys": []
+  },
+  {
+    "id": "evtSmartPlusSelfCastItem4",
+    "category": "Self Cast",
+    "action": "Smart Plus Self Cast Item4",
+    "keys": []
+  },
+  {
+    "id": "evtSmartPlusSelfCastItem3",
+    "category": "Self Cast",
+    "action": "Smart Plus Self Cast Item3",
+    "keys": []
+  },
+  {
+    "id": "evtSmartPlusSelfCastItem2",
+    "category": "Self Cast",
+    "action": "Smart Plus Self Cast Item2",
+    "keys": []
+  },
+  {
+    "id": "evtSmartPlusSelfCastItem1",
+    "category": "Self Cast",
+    "action": "Smart Plus Self Cast Item1",
+    "keys": []
+  },
+  {
+    "id": "evtSmartPlusSelfCastAvatarSpell2",
+    "category": "Self Cast",
+    "action": "Smart Plus Self Cast Avatar Spell2",
+    "keys": []
+  },
+  {
+    "id": "evtSmartPlusSelfCastAvatarSpell1",
+    "category": "Self Cast",
+    "action": "Smart Plus Self Cast Avatar Spell1",
+    "keys": []
+  },
+  {
+    "id": "evtSmartCastWithIndicatorVisionItem",
+    "category": "Abilities",
+    "action": "Smart Cast With Indicator Vision Item",
+    "keys": [
+      [
+        "4"
+      ]
+    ]
+  },
+  {
+    "id": "evtSmartCastWithIndicatorSpell4",
+    "category": "Abilities",
+    "action": "Smart Cast With Indicator Spell4",
+    "keys": []
+  },
+  {
+    "id": "evtSmartCastWithIndicatorSpell3",
+    "category": "Abilities",
+    "action": "Smart Cast With Indicator Spell3",
+    "keys": []
+  },
+  {
+    "id": "evtSmartCastWithIndicatorSpell2",
+    "category": "Abilities",
+    "action": "Smart Cast With Indicator Spell2",
+    "keys": []
+  },
+  {
+    "id": "evtSmartCastWithIndicatorSpell1",
+    "category": "Abilities",
+    "action": "Smart Cast With Indicator Spell1",
+    "keys": []
+  },
+  {
+    "id": "evtSmartCastWithIndicatorItem6",
+    "category": "Abilities",
+    "action": "Smart Cast With Indicator Item6",
+    "keys": []
+  },
+  {
+    "id": "evtSmartCastWithIndicatorItem5",
+    "category": "Abilities",
+    "action": "Smart Cast With Indicator Item5",
+    "keys": []
+  },
+  {
+    "id": "evtSmartCastWithIndicatorItem4",
+    "category": "Abilities",
+    "action": "Smart Cast With Indicator Item4",
+    "keys": []
+  },
+  {
+    "id": "evtSmartCastWithIndicatorItem3",
+    "category": "Abilities",
+    "action": "Smart Cast With Indicator Item3",
+    "keys": []
+  },
+  {
+    "id": "evtSmartCastWithIndicatorItem2",
+    "category": "Abilities",
+    "action": "Smart Cast With Indicator Item2",
+    "keys": []
+  },
+  {
+    "id": "evtSmartCastWithIndicatorItem1",
+    "category": "Abilities",
+    "action": "Smart Cast With Indicator Item1",
+    "keys": []
+  },
+  {
+    "id": "evtSmartCastWithIndicatorAvatarSpell2",
+    "category": "Abilities",
+    "action": "Smart Cast With Indicator Avatar Spell2",
+    "keys": []
+  },
+  {
+    "id": "evtSmartCastWithIndicatorAvatarSpell1",
+    "category": "Abilities",
+    "action": "Smart Cast With Indicator Avatar Spell1",
+    "keys": []
+  },
+  {
+    "id": "evtSmartCastVisionItem",
+    "category": "Other",
+    "action": "Smart Cast Vision Item",
+    "keys": [
+      [
+        "Shift",
+        "4"
+      ]
+    ]
+  },
+  {
+    "id": "evtSmartCastSpell4",
+    "category": "Abilities",
+    "action": "Smart Cast Spell4",
+    "keys": [
+      [
+        "Shift",
+        "r"
+      ]
+    ]
+  },
+  {
+    "id": "evtSmartCastSpell3",
+    "category": "Abilities",
+    "action": "Smart Cast Spell3",
+    "keys": [
+      [
+        "Shift",
+        "e"
+      ]
+    ]
+  },
+  {
+    "id": "evtSmartCastSpell2",
+    "category": "Abilities",
+    "action": "Smart Cast Spell2",
+    "keys": [
+      [
+        "Shift",
+        "w"
+      ]
+    ]
+  },
+  {
+    "id": "evtSmartCastSpell1",
+    "category": "Abilities",
+    "action": "Smart Cast Spell1",
+    "keys": [
+      [
+        "Shift",
+        "q"
+      ]
+    ]
+  },
+  {
+    "id": "evtSmartCastItem6",
+    "category": "Other",
+    "action": "Smart Cast Item6",
+    "keys": [
+      [
+        "Shift",
+        "7"
+      ]
+    ]
+  },
+  {
+    "id": "evtSmartCastItem5",
+    "category": "Other",
+    "action": "Smart Cast Item5",
+    "keys": [
+      [
+        "Shift",
+        "6"
+      ]
+    ]
+  },
+  {
+    "id": "evtSmartCastItem4",
+    "category": "Other",
+    "action": "Smart Cast Item4",
+    "keys": [
+      [
+        "Shift",
+        "5"
+      ]
+    ]
+  },
+  {
+    "id": "evtSmartCastItem3",
+    "category": "Other",
+    "action": "Smart Cast Item3",
+    "keys": [
+      [
+        "Shift",
+        "3"
+      ]
+    ]
+  },
+  {
+    "id": "evtSmartCastItem2",
+    "category": "Other",
+    "action": "Smart Cast Item2",
+    "keys": [
+      [
+        "Shift",
+        "2"
+      ]
+    ]
+  },
+  {
+    "id": "evtSmartCastItem1",
+    "category": "Other",
+    "action": "Smart Cast Item1",
+    "keys": [
+      [
+        "Shift",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": "evtSmartCastAvatarSpell2",
+    "category": "Other",
+    "action": "Smart Cast Avatar Spell2",
+    "keys": [
+      [
+        "Shift",
+        "f"
+      ]
+    ]
+  },
+  {
+    "id": "evtSmartCastAvatarSpell1",
+    "category": "Other",
+    "action": "Smart Cast Avatar Spell1",
+    "keys": [
+      [
+        "Shift",
+        "d"
+      ]
+    ]
+  },
+  {
+    "id": "evtShowVoicePanel",
+    "category": "Other",
+    "action": "Show Voice Panel",
+    "keys": [
+      [
+        "m"
+      ]
+    ]
+  },
+  {
+    "id": "evtShowSummonerNames",
+    "category": "Other",
+    "action": "Show Summoner Names",
+    "keys": []
+  },
+  {
+    "id": "evtShowScoreBoard",
+    "category": "Other",
+    "action": "Show Score Board",
+    "keys": [
+      [
+        "o"
+      ]
+    ]
+  },
+  {
+    "id": "evtShowHealthBars",
+    "category": "Other",
+    "action": "Show Health Bars",
+    "keys": []
+  },
+  {
+    "id": "evtShowCharacterMenu",
+    "category": "Other",
+    "action": "Show Character Menu",
+    "keys": [
+      [
+        "c"
+      ]
+    ]
+  },
+  {
+    "id": "evtSelfCastVisionItem",
+    "category": "Other",
+    "action": "Self Cast Vision Item",
+    "keys": [
+      [
+        "Alt",
+        "4"
+      ]
+    ]
+  },
+  {
+    "id": "evtSelfCastSpell4",
+    "category": "Other",
+    "action": "Self Cast Spell4",
+    "keys": [
+      [
+        "Alt",
+        "r"
+      ]
+    ]
+  },
+  {
+    "id": "evtSelfCastSpell3",
+    "category": "Other",
+    "action": "Self Cast Spell3",
+    "keys": [
+      [
+        "Alt",
+        "e"
+      ]
+    ]
+  },
+  {
+    "id": "evtSelfCastSpell2",
+    "category": "Other",
+    "action": "Self Cast Spell2",
+    "keys": [
+      [
+        "Alt",
+        "w"
+      ]
+    ]
+  },
+  {
+    "id": "evtSelfCastSpell1",
+    "category": "Other",
+    "action": "Self Cast Spell1",
+    "keys": [
+      [
+        "Alt",
+        "q"
+      ]
+    ]
+  },
+  {
+    "id": "evtSelfCastItem6",
+    "category": "Other",
+    "action": "Self Cast Item6",
+    "keys": [
+      [
+        "Alt",
+        "7"
+      ]
+    ]
+  },
+  {
+    "id": "evtSelfCastItem5",
+    "category": "Other",
+    "action": "Self Cast Item5",
+    "keys": [
+      [
+        "Alt",
+        "6"
+      ]
+    ]
+  },
+  {
+    "id": "evtSelfCastItem4",
+    "category": "Other",
+    "action": "Self Cast Item4",
+    "keys": [
+      [
+        "Alt",
+        "5"
+      ]
+    ]
+  },
+  {
+    "id": "evtSelfCastItem3",
+    "category": "Other",
+    "action": "Self Cast Item3",
+    "keys": [
+      [
+        "Alt",
+        "3"
+      ]
+    ]
+  },
+  {
+    "id": "evtSelfCastItem2",
+    "category": "Other",
+    "action": "Self Cast Item2",
+    "keys": [
+      [
+        "Alt",
+        "2"
+      ]
+    ]
+  },
+  {
+    "id": "evtSelfCastItem1",
+    "category": "Other",
+    "action": "Self Cast Item1",
+    "keys": [
+      [
+        "Alt",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": "evtSelfCastAvatarSpell2",
+    "category": "Other",
+    "action": "Self Cast Avatar Spell2",
+    "keys": [
+      [
+        "Alt",
+        "f"
+      ]
+    ]
+  },
+  {
+    "id": "evtSelfCastAvatarSpell1",
+    "category": "Other",
+    "action": "Self Cast Avatar Spell1",
+    "keys": [
+      [
+        "Alt",
+        "d"
+      ]
+    ]
+  },
+  {
+    "id": "evtSelectSelf",
+    "category": "Other",
+    "action": "Select Self",
+    "keys": []
+  },
+  {
+    "id": "evtSelectAlly4",
+    "category": "Other",
+    "action": "Select Ally4",
+    "keys": [
+      [
+        "F4"
+      ]
+    ]
+  },
+  {
+    "id": "evtSelectAlly3",
+    "category": "Other",
+    "action": "Select Ally3",
+    "keys": [
+      [
+        "F3"
+      ]
+    ]
+  },
+  {
+    "id": "evtSelectAlly2",
+    "category": "Other",
+    "action": "Select Ally2",
+    "keys": [
+      [
+        "F2"
+      ]
+    ]
+  },
+  {
+    "id": "evtSelectAlly1",
+    "category": "Other",
+    "action": "Select Ally1",
+    "keys": [
+      [
+        "F1"
+      ]
+    ]
+  },
+  {
+    "id": "evtScrollUp",
+    "category": "Other",
+    "action": "Scroll Up",
+    "keys": [
+      [
+        "Up Arrow"
+      ]
+    ]
+  },
+  {
+    "id": "evtScrollRight",
+    "category": "Other",
+    "action": "Scroll Right",
+    "keys": [
+      [
+        "Right Arrow"
+      ]
+    ]
+  },
+  {
+    "id": "evtScrollLeft",
+    "category": "Other",
+    "action": "Scroll Left",
+    "keys": [
+      [
+        "Left Arrow"
+      ]
+    ]
+  },
+  {
+    "id": "evtScrollDown",
+    "category": "Other",
+    "action": "Scroll Down",
+    "keys": [
+      [
+        "Down Arrow"
+      ]
+    ]
+  },
+  {
+    "id": "evtReciprocityTrigger",
+    "category": "Other",
+    "action": "Reciprocity Trigger",
+    "keys": []
+  },
+  {
+    "id": "evtReciprocityMyBadTrigger",
+    "category": "Other",
+    "action": "Reciprocity My Bad Trigger",
+    "keys": [
+      [
+        "i"
+      ]
+    ]
+  },
+  {
+    "id": "evtRadialEmotePlaySlot8",
+    "category": "Other",
+    "action": "Radial Emote Play Slot8",
+    "keys": []
+  },
+  {
+    "id": "evtRadialEmotePlaySlot7",
+    "category": "Other",
+    "action": "Radial Emote Play Slot7",
+    "keys": []
+  },
+  {
+    "id": "evtRadialEmotePlaySlot6",
+    "category": "Other",
+    "action": "Radial Emote Play Slot6",
+    "keys": []
+  },
+  {
+    "id": "evtRadialEmotePlaySlot5",
+    "category": "Other",
+    "action": "Radial Emote Play Slot5",
+    "keys": []
+  },
+  {
+    "id": "evtRadialEmotePlaySlot4",
+    "category": "Other",
+    "action": "Radial Emote Play Slot4",
+    "keys": []
+  },
+  {
+    "id": "evtRadialEmotePlaySlot3",
+    "category": "Other",
+    "action": "Radial Emote Play Slot3",
+    "keys": []
+  },
+  {
+    "id": "evtRadialEmotePlaySlot2",
+    "category": "Other",
+    "action": "Radial Emote Play Slot2",
+    "keys": []
+  },
+  {
+    "id": "evtRadialEmotePlaySlot1",
+    "category": "Other",
+    "action": "Radial Emote Play Slot1",
+    "keys": []
+  },
+  {
+    "id": "evtRadialEmotePlaySlot0",
+    "category": "Other",
+    "action": "Radial Emote Play Slot0",
+    "keys": []
+  },
+  {
+    "id": "evtRadialEmoteOpen",
+    "category": "Other",
+    "action": "Radial Emote Open",
+    "keys": []
+  },
+  {
+    "id": "evtRadialEmoteInstantOpen",
+    "category": "Other",
+    "action": "Radial Emote Instant Open",
+    "keys": [
+      [
+        "`"
+      ]
+    ]
+  },
+  {
+    "id": "evtPushToTalk",
+    "category": "Other",
+    "action": "Push To Talk",
+    "keys": []
+  },
+  {
+    "id": "evtPlayerStopPosition",
+    "category": "Other",
+    "action": "Player Stop Position",
+    "keys": [
+      [
+        "s"
+      ]
+    ]
+  },
+  {
+    "id": "evtPlayerPingVisionNeeded",
+    "category": "Other",
+    "action": "Player Ping Vision Needed",
+    "keys": []
+  },
+  {
+    "id": "evtPlayerPingRadialDanger",
+    "category": "Other",
+    "action": "Player Ping Radial Danger",
+    "keys": []
+  },
+  {
+    "id": "evtPlayerPingPush",
+    "category": "Other",
+    "action": "Player Ping Push",
+    "keys": []
+  },
+  {
+    "id": "evtPlayerPingOMW",
+    "category": "Other",
+    "action": "Player Ping O M W",
+    "keys": []
+  },
+  {
+    "id": "evtPlayerPingMIA",
+    "category": "Other",
+    "action": "Player Ping M I A",
+    "keys": []
+  },
+  {
+    "id": "evtPlayerPingComeHere",
+    "category": "Other",
+    "action": "Player Ping Come Here",
+    "keys": []
+  },
+  {
+    "id": "evtPlayerPingAllIn",
+    "category": "Other",
+    "action": "Player Ping All In",
+    "keys": []
+  },
+  {
+    "id": "evtPlayerMoveClick",
+    "category": "Other",
+    "action": "Player Move Click",
+    "keys": [
+      [
+        "Button 2"
+      ]
+    ]
+  },
+  {
+    "id": "evtPlayerHoldPosition",
+    "category": "Other",
+    "action": "Player Hold Position",
+    "keys": []
+  },
+  {
+    "id": "evtPlayerAttackOnlyClick",
+    "category": "Other",
+    "action": "Player Attack Only Click",
+    "keys": []
+  },
+  {
+    "id": "evtPlayerAttackMoveClick",
+    "category": "Other",
+    "action": "Player Attack Move Click",
+    "keys": [
+      [
+        "a"
+      ]
+    ]
+  },
+  {
+    "id": "evtPlayerAttackMove",
+    "category": "Other",
+    "action": "Player Attack Move",
+    "keys": [
+      [
+        "x"
+      ]
+    ]
+  },
+  {
+    "id": "evtPetMoveClick",
+    "category": "Other",
+    "action": "Pet Move Click",
+    "keys": [
+      [
+        "Alt",
+        "Button 2"
+      ],
+      [
+        "Ctrl",
+        "Button 2"
+      ]
+    ]
+  },
+  {
+    "id": "evtOpenShop",
+    "category": "Other",
+    "action": "Open Shop",
+    "keys": [
+      [
+        "p"
+      ],
+      [
+        "u"
+      ]
+    ]
+  },
+  {
+    "id": "evtOnUIMouse4Pan",
+    "category": "Other",
+    "action": "On U I Mouse4 Pan",
+    "keys": [
+      [
+        "Button 3"
+      ]
+    ]
+  },
+  {
+    "id": "evtNormalCastVisionItem",
+    "category": "Other",
+    "action": "Normal Cast Vision Item",
+    "keys": []
+  },
+  {
+    "id": "evtNormalCastSpell4",
+    "category": "Other",
+    "action": "Normal Cast Spell4",
+    "keys": []
+  },
+  {
+    "id": "evtNormalCastSpell3",
+    "category": "Other",
+    "action": "Normal Cast Spell3",
+    "keys": []
+  },
+  {
+    "id": "evtNormalCastSpell2",
+    "category": "Other",
+    "action": "Normal Cast Spell2",
+    "keys": []
+  },
+  {
+    "id": "evtNormalCastSpell1",
+    "category": "Other",
+    "action": "Normal Cast Spell1",
+    "keys": []
+  },
+  {
+    "id": "evtNormalCastItem6",
+    "category": "Other",
+    "action": "Normal Cast Item6",
+    "keys": []
+  },
+  {
+    "id": "evtNormalCastItem5",
+    "category": "Other",
+    "action": "Normal Cast Item5",
+    "keys": []
+  },
+  {
+    "id": "evtNormalCastItem4",
+    "category": "Other",
+    "action": "Normal Cast Item4",
+    "keys": []
+  },
+  {
+    "id": "evtNormalCastItem3",
+    "category": "Other",
+    "action": "Normal Cast Item3",
+    "keys": []
+  },
+  {
+    "id": "evtNormalCastItem2",
+    "category": "Other",
+    "action": "Normal Cast Item2",
+    "keys": []
+  },
+  {
+    "id": "evtNormalCastItem1",
+    "category": "Other",
+    "action": "Normal Cast Item1",
+    "keys": []
+  },
+  {
+    "id": "evtNormalCastAvatarSpell2",
+    "category": "Other",
+    "action": "Normal Cast Avatar Spell2",
+    "keys": []
+  },
+  {
+    "id": "evtNormalCastAvatarSpell1",
+    "category": "Other",
+    "action": "Normal Cast Avatar Spell1",
+    "keys": []
+  },
+  {
+    "id": "evtLevelSpell4",
+    "category": "Other",
+    "action": "Level Spell4",
+    "keys": [
+      [
+        "Ctrl",
+        "r"
+      ]
+    ]
+  },
+  {
+    "id": "evtLevelSpell3",
+    "category": "Other",
+    "action": "Level Spell3",
+    "keys": [
+      [
+        "Ctrl",
+        "e"
+      ]
+    ]
+  },
+  {
+    "id": "evtLevelSpell2",
+    "category": "Other",
+    "action": "Level Spell2",
+    "keys": [
+      [
+        "Ctrl",
+        "w"
+      ]
+    ]
+  },
+  {
+    "id": "evtLevelSpell1",
+    "category": "Other",
+    "action": "Level Spell1",
+    "keys": [
+      [
+        "Ctrl",
+        "q"
+      ]
+    ]
+  },
+  {
+    "id": "evtEmoteToggle",
+    "category": "Other",
+    "action": "Emote Toggle",
+    "keys": [
+      [
+        "Ctrl",
+        "5"
+      ]
+    ]
+  },
+  {
+    "id": "evtEmoteTaunt",
+    "category": "Other",
+    "action": "Emote Taunt",
+    "keys": [
+      [
+        "Ctrl",
+        "2"
+      ]
+    ]
+  },
+  {
+    "id": "evtEmoteLaugh",
+    "category": "Other",
+    "action": "Emote Laugh",
+    "keys": [
+      [
+        "Ctrl",
+        "4"
+      ]
+    ]
+  },
+  {
+    "id": "evtEmoteJoke",
+    "category": "Other",
+    "action": "Emote Joke",
+    "keys": [
+      [
+        "Ctrl",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": "evtEmoteDance",
+    "category": "Other",
+    "action": "Emote Dance",
+    "keys": [
+      [
+        "Ctrl",
+        "3"
+      ]
+    ]
+  },
+  {
+    "id": "evtDrawHud",
+    "category": "Other",
+    "action": "Draw Hud",
+    "keys": []
+  },
+  {
+    "id": "evtDragScrollLock",
+    "category": "Other",
+    "action": "Drag Scroll Lock",
+    "keys": []
+  },
+  {
+    "id": "evtChatHistory",
+    "category": "Other",
+    "action": "Chat History",
+    "keys": [
+      [
+        "z"
+      ]
+    ]
+  },
+  {
+    "id": "evtChampionOnly",
+    "category": "Other",
+    "action": "Champion Only",
+    "keys": [
+      [
+        "t"
+      ]
+    ]
+  },
+  {
+    "id": "evtChampMasteryDisplay",
+    "category": "Other",
+    "action": "Champ Mastery Display",
+    "keys": [
+      [
+        "Ctrl",
+        "6"
+      ]
+    ]
+  },
+  {
+    "id": "evtCastSpell4",
+    "category": "Other",
+    "action": "Cast Spell4",
+    "keys": [
+      [
+        "r"
+      ]
+    ]
+  },
+  {
+    "id": "evtCastSpell3",
+    "category": "Other",
+    "action": "Cast Spell3",
+    "keys": [
+      [
+        "e"
+      ]
+    ]
+  },
+  {
+    "id": "evtCastSpell2",
+    "category": "Other",
+    "action": "Cast Spell2",
+    "keys": [
+      [
+        "w"
+      ]
+    ]
+  },
+  {
+    "id": "evtCastSpell1",
+    "category": "Other",
+    "action": "Cast Spell1",
+    "keys": [
+      [
+        "q"
+      ]
+    ]
+  },
+  {
+    "id": "evtCastAvatarSpell2",
+    "category": "Other",
+    "action": "Cast Avatar Spell2",
+    "keys": [
+      [
+        "f"
+      ]
+    ]
+  },
+  {
+    "id": "evtCastAvatarSpell1",
+    "category": "Other",
+    "action": "Cast Avatar Spell1",
+    "keys": [
+      [
+        "d"
+      ]
+    ]
+  },
+  {
+    "id": "evtCameraSnap",
+    "category": "Other",
+    "action": "Camera Snap",
+    "keys": [
+      [
+        "Space"
+      ]
+    ]
+  },
+  {
+    "id": "evtCameraLockToggle",
+    "category": "Other",
+    "action": "Camera Lock Toggle",
+    "keys": [
+      [
+        "y"
+      ]
+    ]
+  },
+  {
+    "id": "evntPlayerPingDanger",
+    "category": "Other",
+    "action": "evnt Player Ping Danger",
+    "keys": [
+      [
+        "Ctrl",
+        "Button 1"
+      ]
+    ]
+  },
+  {
+    "id": "evntPlayerPingCursorDanger",
+    "category": "Other",
+    "action": "evnt Player Ping Cursor Danger",
+    "keys": [
+      [
+        "v"
+      ]
+    ]
+  },
+  {
+    "id": "evntPlayerPingCursor",
+    "category": "Other",
+    "action": "evnt Player Ping Cursor",
+    "keys": [
+      [
+        "g"
+      ]
+    ]
+  },
+  {
+    "id": "evntPlayerPing",
+    "category": "Other",
+    "action": "evnt Player Ping",
+    "keys": [
+      [
+        "Alt",
+        "Button 1"
+      ]
+    ]
+  },
+  {
+    "id": "evtTogglePlayerStats",
+    "category": "Other",
+    "action": "Toggle Player Stats",
+    "keys": [
+      [
+        "Ctrl",
+        "c"
+      ]
+    ]
+  },
+  {
+    "id": "evtToggleMouseClip",
+    "category": "Other",
+    "action": "Toggle Mouse Clip",
+    "keys": [
+      [
+        "F9"
+      ]
+    ]
+  },
+  {
+    "id": "evtToggleFPSAndLatency",
+    "category": "Other",
+    "action": "Toggle F P S And Latency",
+    "keys": [
+      [
+        "Ctrl",
+        "f"
+      ]
+    ]
+  },
+  {
+    "id": "evtToggleDeathRecapShowcase",
+    "category": "Other",
+    "action": "Toggle Death Recap Showcase",
+    "keys": [
+      [
+        "n"
+      ]
+    ]
+  },
+  {
+    "id": "evtHoldShowScoreBoard",
+    "category": "Other",
+    "action": "Hold Show Score Board",
+    "keys": [
+      [
+        "Tab"
+      ]
+    ]
+  },
+  {
+    "id": "evtUseVisionItemsmart",
+    "category": "Other",
+    "action": "Use Vision Itemsmart",
+    "keys": []
+  },
+  {
+    "id": "evtUseItem6smart",
+    "category": "Items",
+    "action": "Use Item6smart",
+    "keys": []
+  },
+  {
+    "id": "evtUseItem5smart",
+    "category": "Items",
+    "action": "Use Item5smart",
+    "keys": []
+  },
+  {
+    "id": "evtUseItem4smart",
+    "category": "Items",
+    "action": "Use Item4smart",
+    "keys": []
+  },
+  {
+    "id": "evtUseItem3smart",
+    "category": "Items",
+    "action": "Use Item3smart",
+    "keys": []
+  },
+  {
+    "id": "evtUseItem2smart",
+    "category": "Items",
+    "action": "Use Item2smart",
+    "keys": []
+  },
+  {
+    "id": "evtUseItem1smart",
+    "category": "Items",
+    "action": "Use Item1smart",
+    "keys": []
+  },
+  {
+    "id": "evtCastSpell4smart",
+    "category": "Other",
+    "action": "Cast Spell4smart",
+    "keys": []
+  },
+  {
+    "id": "evtCastSpell3smart",
+    "category": "Other",
+    "action": "Cast Spell3smart",
+    "keys": []
+  },
+  {
+    "id": "evtCastSpell2smart",
+    "category": "Other",
+    "action": "Cast Spell2smart",
+    "keys": []
+  },
+  {
+    "id": "evtCastSpell1smart",
+    "category": "Other",
+    "action": "Cast Spell1smart",
+    "keys": []
+  },
+  {
+    "id": "evtCastAvatarSpell2smart",
+    "category": "Other",
+    "action": "Cast Avatar Spell2smart",
+    "keys": []
+  },
+  {
+    "id": "evtCastAvatarSpell1smart",
+    "category": "Other",
+    "action": "Cast Avatar Spell1smart",
+    "keys": []
+  },
+  {
+    "id": "evtShopSwitchTabs",
+    "category": "Other",
+    "action": "Shop Switch Tabs",
+    "keys": [
+      [
+        "Ctrl",
+        "Tab"
+      ]
+    ]
+  },
+  {
+    "id": "evtShopFocusSearch",
+    "category": "Other",
+    "action": "Shop Focus Search",
+    "keys": [
+      [
+        "Ctrl",
+        "l"
+      ],
+      [
+        "Ctrl",
+        "Return"
+      ]
+    ]
+  }
+]

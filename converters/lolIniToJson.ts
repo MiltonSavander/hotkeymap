@@ -1,19 +1,7 @@
-const iniSnippet = `
-evtUseVisionItem=[<Unbound>]
-evtUseItem7=[b]
-evtUseItem6=[7]
-evtUseItem5=[6]
-evtUseItem4=[5]
-evtUseItem3=[3]
-evtUseItem2=[2]
-evtUseItem1=[1]
-evtSysMenu=[Esc]
-evtSmartCastSpell4=[Shift][r]
-evtSmartCastSpell3=[Shift][e]
-evtSmartCastSpell2=
-evtSmartCastSpell1=
-evtSomethingCustom=
-`.trim();
+const fs = require("fs");
+
+// Read file synchronously (or use async version if you prefer)
+const iniData = fs.readFileSync("./input.ini", "utf-8");
 
 const categorize = (id: string): string => {
   if (id.includes("UseItem")) return "Items";
@@ -31,9 +19,14 @@ const humanizeAction = (id: string): string => {
     .trim();
 };
 
-const parseKeys = (raw: string): string[] => {
-  const matches = [...raw.matchAll(/\[([^\]]+)\]/g)];
-  return matches.map((m) => m[1]).filter((k) => k !== "<Unbound>");
+const parseKeys = (raw: string): string[][] => {
+  return raw
+    .split(",")
+    .map((combo) => {
+      const matches = [...combo.matchAll(/\[([^\]]+)\]/g)];
+      return matches.map((m) => m[1]).filter((k) => k !== "<Unbound>");
+    })
+    .filter((group) => group.length > 0);
 };
 
 const convertIniToJson = (ini: string) => {
@@ -54,5 +47,9 @@ const convertIniToJson = (ini: string) => {
     });
 };
 
-const result = convertIniToJson(iniSnippet);
-console.log(JSON.stringify(result, null, 2));
+const result = convertIniToJson(iniData);
+const dataToWrite = JSON.stringify(result, null, 2); // your JSON string
+
+fs.writeFileSync("output.json", dataToWrite, "utf8");
+
+console.log("File written successfully!");
