@@ -18,7 +18,7 @@ export default function KeyboardVisualizerPage() {
   });
 
   return (
-    <main className="h-full w-full flex flex-row overflow-hidden">
+    <main className="h-full w-full flex flex-row">
       <KeybindList
         programKeybinds={testData}
         fingerColors={fingerColors}

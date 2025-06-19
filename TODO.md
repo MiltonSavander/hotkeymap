@@ -1,0 +1,21 @@
+- [ ] add button cata gorize ation
+- [ ] add button show unused
+- [ ] add shearchfield to seach action/keysroke
+- [ ] add on hover to higlight key from list
+- [ ] add on hover to higlight list action from virutal keyboard
+- [ ] style keybind list
+- [ ] style virutal keyboard
+- [ ] add options interface ontop of keyboard
+- [ ] add import button/fuction
+- [ ] add converter from my json to program(lol)
+- [ ] add export button/funtion
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]

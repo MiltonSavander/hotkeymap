@@ -87,9 +87,9 @@ export const nordicLayout: KeyData[][] = [
   [
     { label: "Ctrl", w: 1.8, finger: "L5" },
     { label: "Win", w: 1.5, finger: "L5" },
-    { label: "Alt", w: 1.5, finger: "L5" },
+    { label: "Alt", w: 1.5, finger: "Thumb" },
     { label: "Space", w: 6, finger: "Thumb" },
-    { label: "AltGr", w: 1.5, finger: "R5" },
+    { label: "AltGr", w: 1.5, finger: "Thumb" },
     { label: "Fn", w: 1.5, finger: "R5" },
     { label: "Ctrl", w: 1.5, finger: "R5" },
   ],
