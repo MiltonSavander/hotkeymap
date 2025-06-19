@@ -35,12 +35,58 @@ const KeybindList: React.FC<KeybindListProps> = ({ programKeybinds, fingerColors
   console.log("this is programKeybinds", programKeybinds);
 
   const filteredKeybinds = useMemo(() => {
-    return programKeybinds.filter((item) => {
+    const filtered = programKeybinds.filter((item) => {
       if (showOnlyUsed && item.keys.length < 1) return false;
       if (search && !item.action.toLowerCase().includes(search.toLowerCase())) return false;
       return true;
     });
+
+    if (!showCatigory) return filtered;
+
+    // Group by category
+    const grouped: Record<string, ProgramKeybind[]> = {};
+    for (const item of filtered) {
+      const category = item.category || "Uncategorized";
+      if (!grouped[category]) grouped[category] = [];
+      grouped[category].push(item);
+    }
+    console.log("this is grouped", grouped);
+    return grouped;
   }, [programKeybinds, showOnlyUsed, showCatigory, search]);
+
+  const KeybindListItem: React.FC<{
+    item: ProgramKeybind;
+    fingerColors: FingerColors;
+  }> = ({ item, fingerColors }) => (
+    <li className="flex justify-between ml-4 pr-2 pl-2 bg-gray-400 rounded-[5px]">
+      <div>{item.action}</div>
+      <div className="flex gap-2 flex-wrap">
+        {item.keys.map((combo, comboId) => (
+          <div
+            key={comboId}
+            className="flex items-center gap-1"
+          >
+            {combo.map((key, keyId) => {
+              const finger = findKeyFinger(key);
+              const backgroundColor = finger ? fingerColors[finger] : "#ccc";
+
+              return (
+                <React.Fragment key={keyId}>
+                  <div
+                    className="text-black px-2 py-1 rounded font-mono"
+                    style={{ backgroundColor }}
+                  >
+                    {key}
+                  </div>
+                  {keyId < combo.length - 1 && <span className="text-black">+</span>}
+                </React.Fragment>
+              );
+            })}
+          </div>
+        ))}
+      </div>
+    </li>
+  );
 
   console.log("this is filtered", filteredKeybinds);
   return (
@@ -58,6 +104,7 @@ const KeybindList: React.FC<KeybindListProps> = ({ programKeybinds, fingerColors
           <button
             className="w-12 flex justify-center items-center p-1 rounded-sm bg-gray-400 cursor-pointer"
             onClick={handleFilterUnused}
+            style={{ opacity: showOnlyUsed ? 1 : 0.5 }}
           >
             <img
               className="size-[26]"
@@ -68,6 +115,7 @@ const KeybindList: React.FC<KeybindListProps> = ({ programKeybinds, fingerColors
           <button
             className="w-12 flex justify-center items-center p-1 rounded-sm bg-gray-400"
             onClick={handleFilterCatigory}
+            style={{ opacity: showCatigory ? 1 : 0.5 }}
           >
             <img
               className="size-[26]"
@@ -77,41 +125,31 @@ const KeybindList: React.FC<KeybindListProps> = ({ programKeybinds, fingerColors
           </button>
         </div>
       </div>
-      <ul className="flex flex-col gap-1 w-full overflow-y-auto h-[700]">
-        {filteredKeybinds.map((item, itemId) => (
-          <li
-            className="flex justify-between ml-4 pr-2 pl-2 bg-gray-400 rounded-[5px]"
-            key={itemId}
-          >
-            <div>{item.action}</div>
-            <div className="flex gap-2 flex-wrap">
-              {item.keys.map((combo, comboId) => (
-                <div
-                  key={comboId}
-                  className="flex items-center gap-1"
-                >
-                  {combo.map((key, keyId) => {
-                    const finger = findKeyFinger(key);
-                    const backgroundColor = finger ? fingerColors[finger] : "#ccc";
+      <ul className="flex flex-col gap-1 w-full overflow-y-auto h-[700px]">
+        {!showCatigory &&
+          (filteredKeybinds as ProgramKeybind[]).map((item, itemId) => (
+            <KeybindListItem
+              key={itemId}
+              item={item}
+              fingerColors={fingerColors}
+            />
+          ))}
 
-                    return (
-                      <React.Fragment key={keyId}>
-                        <div
-                          className="text-black px-2 py-1 rounded font-mono"
-                          style={{ backgroundColor }}
-                        >
-                          {key}
-                        </div>
-                        {/* Add "+" if it's not the last key in the combo */}
-                        {keyId < combo.length - 1 && <span className="text-black">+</span>}
-                      </React.Fragment>
-                    );
-                  })}
-                </div>
-              ))}
-            </div>
-          </li>
-        ))}
+        {showCatigory &&
+          Object.entries(filteredKeybinds as Record<string, ProgramKeybind[]>).map(
+            ([category, items]) => (
+              <React.Fragment key={category}>
+                <li className="text-white font-bold mt-4 mb-1">{category}</li>
+                {items.map((item, idx) => (
+                  <KeybindListItem
+                    key={`${category}-${idx}`}
+                    item={item}
+                    fingerColors={fingerColors}
+                  />
+                ))}
+              </React.Fragment>
+            )
+          )}
       </ul>
     </div>
   );

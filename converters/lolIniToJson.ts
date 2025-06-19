@@ -4,9 +4,11 @@ const fs = require("fs");
 const iniData = fs.readFileSync("./input.ini", "utf-8");
 
 const categorize = (id: string): string => {
-  if (id.includes("UseItem")) return "Items";
-  if (id.includes("SmartCastSpell")) return "Abilities";
+  if (id.includes("Item")) return "Items";
+  if (id.includes("Spell")) return "Abilities";
   if (id.includes("SysMenu")) return "System";
+  if (id.includes("ToggleMinion") || id.includes("Show")) return "UI";
+  if (id.includes("Emote")) return "Emote";
   if (id.includes("SmartCastWithIndicator")) return "Abilities";
   if (id.includes("SmartPlusSelfCast")) return "Self Cast";
   return "Other";

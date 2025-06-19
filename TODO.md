@@ -1,6 +1,6 @@
-- [ ] add button cata gorize ation
-- [ ] add button show unused
-- [ ] add shearchfield to seach action/keysroke
+- [x] add button cata gorize ation
+- [x] add button show unused
+- [x] add shearchfield to seach action/keysroke
 - [ ] add on hover to higlight key from list
 - [ ] add on hover to higlight list action from virutal keyboard
 - [ ] style keybind list

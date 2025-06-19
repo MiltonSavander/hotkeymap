@@ -1,7 +1,7 @@
 [
   {
     "id": "evtUseVisionItem",
-    "category": "Other",
+    "category": "Items",
     "action": "Use Vision Item",
     "keys": []
   },
@@ -77,7 +77,7 @@
   },
   {
     "id": "evtToggleMinionHealthBars",
-    "category": "Other",
+    "category": "UI",
     "action": "Toggle Minion Health Bars",
     "keys": []
   },
@@ -93,163 +93,163 @@
   },
   {
     "id": "evtSmartPlusSelfCastWithIndicatorVisionItem",
-    "category": "Self Cast",
+    "category": "Items",
     "action": "Smart Plus Self Cast With Indicator Vision Item",
     "keys": []
   },
   {
     "id": "evtSmartPlusSelfCastWithIndicatorSpell4",
-    "category": "Self Cast",
+    "category": "Abilities",
     "action": "Smart Plus Self Cast With Indicator Spell4",
     "keys": []
   },
   {
     "id": "evtSmartPlusSelfCastWithIndicatorSpell3",
-    "category": "Self Cast",
+    "category": "Abilities",
     "action": "Smart Plus Self Cast With Indicator Spell3",
     "keys": []
   },
   {
     "id": "evtSmartPlusSelfCastWithIndicatorSpell2",
-    "category": "Self Cast",
+    "category": "Abilities",
     "action": "Smart Plus Self Cast With Indicator Spell2",
     "keys": []
   },
   {
     "id": "evtSmartPlusSelfCastWithIndicatorSpell1",
-    "category": "Self Cast",
+    "category": "Abilities",
     "action": "Smart Plus Self Cast With Indicator Spell1",
     "keys": []
   },
   {
     "id": "evtSmartPlusSelfCastWithIndicatorItem6",
-    "category": "Self Cast",
+    "category": "Items",
     "action": "Smart Plus Self Cast With Indicator Item6",
     "keys": []
   },
   {
     "id": "evtSmartPlusSelfCastWithIndicatorItem5",
-    "category": "Self Cast",
+    "category": "Items",
     "action": "Smart Plus Self Cast With Indicator Item5",
     "keys": []
   },
   {
     "id": "evtSmartPlusSelfCastWithIndicatorItem4",
-    "category": "Self Cast",
+    "category": "Items",
     "action": "Smart Plus Self Cast With Indicator Item4",
     "keys": []
   },
   {
     "id": "evtSmartPlusSelfCastWithIndicatorItem3",
-    "category": "Self Cast",
+    "category": "Items",
     "action": "Smart Plus Self Cast With Indicator Item3",
     "keys": []
   },
   {
     "id": "evtSmartPlusSelfCastWithIndicatorItem2",
-    "category": "Self Cast",
+    "category": "Items",
     "action": "Smart Plus Self Cast With Indicator Item2",
     "keys": []
   },
   {
     "id": "evtSmartPlusSelfCastWithIndicatorItem1",
-    "category": "Self Cast",
+    "category": "Items",
     "action": "Smart Plus Self Cast With Indicator Item1",
     "keys": []
   },
   {
     "id": "evtSmartPlusSelfCastWithIndicatorAvatarSpell2",
-    "category": "Self Cast",
+    "category": "Abilities",
     "action": "Smart Plus Self Cast With Indicator Avatar Spell2",
     "keys": []
   },
   {
     "id": "evtSmartPlusSelfCastWithIndicatorAvatarSpell1",
-    "category": "Self Cast",
+    "category": "Abilities",
     "action": "Smart Plus Self Cast With Indicator Avatar Spell1",
     "keys": []
   },
   {
     "id": "evtSmartPlusSelfCastVisionItem",
-    "category": "Self Cast",
+    "category": "Items",
     "action": "Smart Plus Self Cast Vision Item",
     "keys": []
   },
   {
     "id": "evtSmartPlusSelfCastSpell4",
-    "category": "Self Cast",
+    "category": "Abilities",
     "action": "Smart Plus Self Cast Spell4",
     "keys": []
   },
   {
     "id": "evtSmartPlusSelfCastSpell3",
-    "category": "Self Cast",
+    "category": "Abilities",
     "action": "Smart Plus Self Cast Spell3",
     "keys": []
   },
   {
     "id": "evtSmartPlusSelfCastSpell2",
-    "category": "Self Cast",
+    "category": "Abilities",
     "action": "Smart Plus Self Cast Spell2",
     "keys": []
   },
   {
     "id": "evtSmartPlusSelfCastSpell1",
-    "category": "Self Cast",
+    "category": "Abilities",
     "action": "Smart Plus Self Cast Spell1",
     "keys": []
   },
   {
     "id": "evtSmartPlusSelfCastItem6",
-    "category": "Self Cast",
+    "category": "Items",
     "action": "Smart Plus Self Cast Item6",
     "keys": []
   },
   {
     "id": "evtSmartPlusSelfCastItem5",
-    "category": "Self Cast",
+    "category": "Items",
     "action": "Smart Plus Self Cast Item5",
     "keys": []
   },
   {
     "id": "evtSmartPlusSelfCastItem4",
-    "category": "Self Cast",
+    "category": "Items",
     "action": "Smart Plus Self Cast Item4",
     "keys": []
   },
   {
     "id": "evtSmartPlusSelfCastItem3",
-    "category": "Self Cast",
+    "category": "Items",
     "action": "Smart Plus Self Cast Item3",
     "keys": []
   },
   {
     "id": "evtSmartPlusSelfCastItem2",
-    "category": "Self Cast",
+    "category": "Items",
     "action": "Smart Plus Self Cast Item2",
     "keys": []
   },
   {
     "id": "evtSmartPlusSelfCastItem1",
-    "category": "Self Cast",
+    "category": "Items",
     "action": "Smart Plus Self Cast Item1",
     "keys": []
   },
   {
     "id": "evtSmartPlusSelfCastAvatarSpell2",
-    "category": "Self Cast",
+    "category": "Abilities",
     "action": "Smart Plus Self Cast Avatar Spell2",
     "keys": []
   },
   {
     "id": "evtSmartPlusSelfCastAvatarSpell1",
-    "category": "Self Cast",
+    "category": "Abilities",
     "action": "Smart Plus Self Cast Avatar Spell1",
     "keys": []
   },
   {
     "id": "evtSmartCastWithIndicatorVisionItem",
-    "category": "Abilities",
+    "category": "Items",
     "action": "Smart Cast With Indicator Vision Item",
     "keys": [
       [
@@ -283,37 +283,37 @@
   },
   {
     "id": "evtSmartCastWithIndicatorItem6",
-    "category": "Abilities",
+    "category": "Items",
     "action": "Smart Cast With Indicator Item6",
     "keys": []
   },
   {
     "id": "evtSmartCastWithIndicatorItem5",
-    "category": "Abilities",
+    "category": "Items",
     "action": "Smart Cast With Indicator Item5",
     "keys": []
   },
   {
     "id": "evtSmartCastWithIndicatorItem4",
-    "category": "Abilities",
+    "category": "Items",
     "action": "Smart Cast With Indicator Item4",
     "keys": []
   },
   {
     "id": "evtSmartCastWithIndicatorItem3",
-    "category": "Abilities",
+    "category": "Items",
     "action": "Smart Cast With Indicator Item3",
     "keys": []
   },
   {
     "id": "evtSmartCastWithIndicatorItem2",
-    "category": "Abilities",
+    "category": "Items",
     "action": "Smart Cast With Indicator Item2",
     "keys": []
   },
   {
     "id": "evtSmartCastWithIndicatorItem1",
-    "category": "Abilities",
+    "category": "Items",
     "action": "Smart Cast With Indicator Item1",
     "keys": []
   },
@@ -331,7 +331,7 @@
   },
   {
     "id": "evtSmartCastVisionItem",
-    "category": "Other",
+    "category": "Items",
     "action": "Smart Cast Vision Item",
     "keys": [
       [
@@ -386,7 +386,7 @@
   },
   {
     "id": "evtSmartCastItem6",
-    "category": "Other",
+    "category": "Items",
     "action": "Smart Cast Item6",
     "keys": [
       [
@@ -397,7 +397,7 @@
   },
   {
     "id": "evtSmartCastItem5",
-    "category": "Other",
+    "category": "Items",
     "action": "Smart Cast Item5",
     "keys": [
       [
@@ -408,7 +408,7 @@
   },
   {
     "id": "evtSmartCastItem4",
-    "category": "Other",
+    "category": "Items",
     "action": "Smart Cast Item4",
     "keys": [
       [
@@ -419,7 +419,7 @@
   },
   {
     "id": "evtSmartCastItem3",
-    "category": "Other",
+    "category": "Items",
     "action": "Smart Cast Item3",
     "keys": [
       [
@@ -430,7 +430,7 @@
   },
   {
     "id": "evtSmartCastItem2",
-    "category": "Other",
+    "category": "Items",
     "action": "Smart Cast Item2",
     "keys": [
       [
@@ -441,7 +441,7 @@
   },
   {
     "id": "evtSmartCastItem1",
-    "category": "Other",
+    "category": "Items",
     "action": "Smart Cast Item1",
     "keys": [
       [
@@ -452,7 +452,7 @@
   },
   {
     "id": "evtSmartCastAvatarSpell2",
-    "category": "Other",
+    "category": "Abilities",
     "action": "Smart Cast Avatar Spell2",
     "keys": [
       [
@@ -463,7 +463,7 @@
   },
   {
     "id": "evtSmartCastAvatarSpell1",
-    "category": "Other",
+    "category": "Abilities",
     "action": "Smart Cast Avatar Spell1",
     "keys": [
       [
@@ -474,7 +474,7 @@
   },
   {
     "id": "evtShowVoicePanel",
-    "category": "Other",
+    "category": "UI",
     "action": "Show Voice Panel",
     "keys": [
       [
@@ -484,13 +484,13 @@
   },
   {
     "id": "evtShowSummonerNames",
-    "category": "Other",
+    "category": "UI",
     "action": "Show Summoner Names",
     "keys": []
   },
   {
     "id": "evtShowScoreBoard",
-    "category": "Other",
+    "category": "UI",
     "action": "Show Score Board",
     "keys": [
       [
@@ -500,13 +500,13 @@
   },
   {
     "id": "evtShowHealthBars",
-    "category": "Other",
+    "category": "UI",
     "action": "Show Health Bars",
     "keys": []
   },
   {
     "id": "evtShowCharacterMenu",
-    "category": "Other",
+    "category": "UI",
     "action": "Show Character Menu",
     "keys": [
       [
@@ -516,7 +516,7 @@
   },
   {
     "id": "evtSelfCastVisionItem",
-    "category": "Other",
+    "category": "Items",
     "action": "Self Cast Vision Item",
     "keys": [
       [
@@ -527,7 +527,7 @@
   },
   {
     "id": "evtSelfCastSpell4",
-    "category": "Other",
+    "category": "Abilities",
     "action": "Self Cast Spell4",
     "keys": [
       [
@@ -538,7 +538,7 @@
   },
   {
     "id": "evtSelfCastSpell3",
-    "category": "Other",
+    "category": "Abilities",
     "action": "Self Cast Spell3",
     "keys": [
       [
@@ -549,7 +549,7 @@
   },
   {
     "id": "evtSelfCastSpell2",
-    "category": "Other",
+    "category": "Abilities",
     "action": "Self Cast Spell2",
     "keys": [
       [
@@ -560,7 +560,7 @@
   },
   {
     "id": "evtSelfCastSpell1",
-    "category": "Other",
+    "category": "Abilities",
     "action": "Self Cast Spell1",
     "keys": [
       [
@@ -571,7 +571,7 @@
   },
   {
     "id": "evtSelfCastItem6",
-    "category": "Other",
+    "category": "Items",
     "action": "Self Cast Item6",
     "keys": [
       [
@@ -582,7 +582,7 @@
   },
   {
     "id": "evtSelfCastItem5",
-    "category": "Other",
+    "category": "Items",
     "action": "Self Cast Item5",
     "keys": [
       [
@@ -593,7 +593,7 @@
   },
   {
     "id": "evtSelfCastItem4",
-    "category": "Other",
+    "category": "Items",
     "action": "Self Cast Item4",
     "keys": [
       [
@@ -604,7 +604,7 @@
   },
   {
     "id": "evtSelfCastItem3",
-    "category": "Other",
+    "category": "Items",
     "action": "Self Cast Item3",
     "keys": [
       [
@@ -615,7 +615,7 @@
   },
   {
     "id": "evtSelfCastItem2",
-    "category": "Other",
+    "category": "Items",
     "action": "Self Cast Item2",
     "keys": [
       [
@@ -626,7 +626,7 @@
   },
   {
     "id": "evtSelfCastItem1",
-    "category": "Other",
+    "category": "Items",
     "action": "Self Cast Item1",
     "keys": [
       [
@@ -637,7 +637,7 @@
   },
   {
     "id": "evtSelfCastAvatarSpell2",
-    "category": "Other",
+    "category": "Abilities",
     "action": "Self Cast Avatar Spell2",
     "keys": [
       [
@@ -648,7 +648,7 @@
   },
   {
     "id": "evtSelfCastAvatarSpell1",
-    "category": "Other",
+    "category": "Abilities",
     "action": "Self Cast Avatar Spell1",
     "keys": [
       [
@@ -761,67 +761,67 @@
   },
   {
     "id": "evtRadialEmotePlaySlot8",
-    "category": "Other",
+    "category": "Emote",
     "action": "Radial Emote Play Slot8",
     "keys": []
   },
   {
     "id": "evtRadialEmotePlaySlot7",
-    "category": "Other",
+    "category": "Emote",
     "action": "Radial Emote Play Slot7",
     "keys": []
   },
   {
     "id": "evtRadialEmotePlaySlot6",
-    "category": "Other",
+    "category": "Emote",
     "action": "Radial Emote Play Slot6",
     "keys": []
   },
   {
     "id": "evtRadialEmotePlaySlot5",
-    "category": "Other",
+    "category": "Emote",
     "action": "Radial Emote Play Slot5",
     "keys": []
   },
   {
     "id": "evtRadialEmotePlaySlot4",
-    "category": "Other",
+    "category": "Emote",
     "action": "Radial Emote Play Slot4",
     "keys": []
   },
   {
     "id": "evtRadialEmotePlaySlot3",
-    "category": "Other",
+    "category": "Emote",
     "action": "Radial Emote Play Slot3",
     "keys": []
   },
   {
     "id": "evtRadialEmotePlaySlot2",
-    "category": "Other",
+    "category": "Emote",
     "action": "Radial Emote Play Slot2",
     "keys": []
   },
   {
     "id": "evtRadialEmotePlaySlot1",
-    "category": "Other",
+    "category": "Emote",
     "action": "Radial Emote Play Slot1",
     "keys": []
   },
   {
     "id": "evtRadialEmotePlaySlot0",
-    "category": "Other",
+    "category": "Emote",
     "action": "Radial Emote Play Slot0",
     "keys": []
   },
   {
     "id": "evtRadialEmoteOpen",
-    "category": "Other",
+    "category": "Emote",
     "action": "Radial Emote Open",
     "keys": []
   },
   {
     "id": "evtRadialEmoteInstantOpen",
-    "category": "Other",
+    "category": "Emote",
     "action": "Radial Emote Instant Open",
     "keys": [
       [
@@ -969,85 +969,85 @@
   },
   {
     "id": "evtNormalCastVisionItem",
-    "category": "Other",
+    "category": "Items",
     "action": "Normal Cast Vision Item",
     "keys": []
   },
   {
     "id": "evtNormalCastSpell4",
-    "category": "Other",
+    "category": "Abilities",
     "action": "Normal Cast Spell4",
     "keys": []
   },
   {
     "id": "evtNormalCastSpell3",
-    "category": "Other",
+    "category": "Abilities",
     "action": "Normal Cast Spell3",
     "keys": []
   },
   {
     "id": "evtNormalCastSpell2",
-    "category": "Other",
+    "category": "Abilities",
     "action": "Normal Cast Spell2",
     "keys": []
   },
   {
     "id": "evtNormalCastSpell1",
-    "category": "Other",
+    "category": "Abilities",
     "action": "Normal Cast Spell1",
     "keys": []
   },
   {
     "id": "evtNormalCastItem6",
-    "category": "Other",
+    "category": "Items",
     "action": "Normal Cast Item6",
     "keys": []
   },
   {
     "id": "evtNormalCastItem5",
-    "category": "Other",
+    "category": "Items",
     "action": "Normal Cast Item5",
     "keys": []
   },
   {
     "id": "evtNormalCastItem4",
-    "category": "Other",
+    "category": "Items",
     "action": "Normal Cast Item4",
     "keys": []
   },
   {
     "id": "evtNormalCastItem3",
-    "category": "Other",
+    "category": "Items",
     "action": "Normal Cast Item3",
     "keys": []
   },
   {
     "id": "evtNormalCastItem2",
-    "category": "Other",
+    "category": "Items",
     "action": "Normal Cast Item2",
     "keys": []
   },
   {
     "id": "evtNormalCastItem1",
-    "category": "Other",
+    "category": "Items",
     "action": "Normal Cast Item1",
     "keys": []
   },
   {
     "id": "evtNormalCastAvatarSpell2",
-    "category": "Other",
+    "category": "Abilities",
     "action": "Normal Cast Avatar Spell2",
     "keys": []
   },
   {
     "id": "evtNormalCastAvatarSpell1",
-    "category": "Other",
+    "category": "Abilities",
     "action": "Normal Cast Avatar Spell1",
     "keys": []
   },
   {
     "id": "evtLevelSpell4",
-    "category": "Other",
+    "category": "Abilities",
     "action": "Level Spell4",
     "keys": [
       [
@@ -1058,7 +1058,7 @@
   },
   {
     "id": "evtLevelSpell3",
-    "category": "Other",
+    "category": "Abilities",
     "action": "Level Spell3",
     "keys": [
       [
@@ -1069,7 +1069,7 @@
   },
   {
     "id": "evtLevelSpell2",
-    "category": "Other",
+    "category": "Abilities",
     "action": "Level Spell2",
     "keys": [
       [
@@ -1080,7 +1080,7 @@
   },
   {
     "id": "evtLevelSpell1",
-    "category": "Other",
+    "category": "Abilities",
     "action": "Level Spell1",
     "keys": [
       [
@@ -1091,7 +1091,7 @@
   },
   {
     "id": "evtEmoteToggle",
-    "category": "Other",
+    "category": "Emote",
     "action": "Emote Toggle",
     "keys": [
       [
@@ -1102,7 +1102,7 @@
   },
   {
     "id": "evtEmoteTaunt",
-    "category": "Other",
+    "category": "Emote",
     "action": "Emote Taunt",
     "keys": [
       [
@@ -1113,7 +1113,7 @@
   },
   {
     "id": "evtEmoteLaugh",
-    "category": "Other",
+    "category": "Emote",
     "action": "Emote Laugh",
     "keys": [
       [
@@ -1124,7 +1124,7 @@
   },
   {
     "id": "evtEmoteJoke",
-    "category": "Other",
+    "category": "Emote",
     "action": "Emote Joke",
     "keys": [
       [
@@ -1135,7 +1135,7 @@
   },
   {
     "id": "evtEmoteDance",
-    "category": "Other",
+    "category": "Emote",
     "action": "Emote Dance",
     "keys": [
       [
@@ -1189,7 +1189,7 @@
   },
   {
     "id": "evtCastSpell4",
-    "category": "Other",
+    "category": "Abilities",
     "action": "Cast Spell4",
     "keys": [
       [
@@ -1199,7 +1199,7 @@
   },
   {
     "id": "evtCastSpell3",
-    "category": "Other",
+    "category": "Abilities",
     "action": "Cast Spell3",
     "keys": [
       [
@@ -1209,7 +1209,7 @@
   },
   {
     "id": "evtCastSpell2",
-    "category": "Other",
+    "category": "Abilities",
     "action": "Cast Spell2",
     "keys": [
       [
@@ -1219,7 +1219,7 @@
   },
   {
     "id": "evtCastSpell1",
-    "category": "Other",
+    "category": "Abilities",
     "action": "Cast Spell1",
     "keys": [
       [
@@ -1229,7 +1229,7 @@
   },
   {
     "id": "evtCastAvatarSpell2",
-    "category": "Other",
+    "category": "Abilities",
     "action": "Cast Avatar Spell2",
     "keys": [
       [
@@ -1239,7 +1239,7 @@
   },
   {
     "id": "evtCastAvatarSpell1",
-    "category": "Other",
+    "category": "Abilities",
     "action": "Cast Avatar Spell1",
     "keys": [
       [
@@ -1343,7 +1343,7 @@
   },
   {
     "id": "evtToggleDeathRecapShowcase",
-    "category": "Other",
+    "category": "UI",
     "action": "Toggle Death Recap Showcase",
     "keys": [
       [
@@ -1353,7 +1353,7 @@
   },
   {
     "id": "evtHoldShowScoreBoard",
-    "category": "Other",
+    "category": "UI",
     "action": "Hold Show Score Board",
     "keys": [
       [
@@ -1363,7 +1363,7 @@
   },
   {
     "id": "evtUseVisionItemsmart",
-    "category": "Other",
+    "category": "Items",
     "action": "Use Vision Itemsmart",
     "keys": []
   },
@@ -1405,37 +1405,37 @@
   },
   {
     "id": "evtCastSpell4smart",
-    "category": "Other",
+    "category": "Abilities",
     "action": "Cast Spell4smart",
     "keys": []
   },
   {
     "id": "evtCastSpell3smart",
-    "category": "Other",
+    "category": "Abilities",
     "action": "Cast Spell3smart",
     "keys": []
   },
   {
     "id": "evtCastSpell2smart",
-    "category": "Other",
+    "category": "Abilities",
     "action": "Cast Spell2smart",
     "keys": []
   },
   {
     "id": "evtCastSpell1smart",
-    "category": "Other",
+    "category": "Abilities",
     "action": "Cast Spell1smart",
     "keys": []
   },
   {
     "id": "evtCastAvatarSpell2smart",
-    "category": "Other",
+    "category": "Abilities",
     "action": "Cast Avatar Spell2smart",
     "keys": []
   },
   {
     "id": "evtCastAvatarSpell1smart",
-    "category": "Other",
+    "category": "Abilities",
     "action": "Cast Avatar Spell1smart",
     "keys": []
   },
